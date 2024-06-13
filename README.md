@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Andressa Bartolomeu.
 
-- 🔭 Atualmente trabalho com front-end
+- 🔭 Atualmente atuo como front-end
 - 🌱 Estou estudando Typescript
 - 😄 Meus pronomes são: Ela/Dela
 

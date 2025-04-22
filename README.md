@@ -1,8 +1,9 @@
 ## Olá! Eu sou a Andressa Bartolomeu.
 
-- 🔭 Atualmente atuo como front-end
-- 🌱 Estou estudando Typescript
-- 🤖 Manutenção de Notebooks e Desktops
+- 🔭 Atualmente estudo Desenvolvimento de Software 
+- ☕ JAVA
+- 🐍 Python
+- ☕ JavaScript
 - 😄 Meus pronomes são: Ela/Dela
 
 ###

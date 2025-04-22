@@ -28,7 +28,7 @@
 
 ## 🌐 Contato
 
-[🔗[LinkedIn](www.linkedin.com/in/andressa-bartolomeu)  
+[🔗LinkedIn](www.linkedin.com/in/andressa-bartolomeu)  
 [📫 Email](andressa.abc@icloud.com)
 
 ---
